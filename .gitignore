@@ -1,0 +1,6 @@
+*.tfstate
+*.tfvars
+.terraformrc
+terraform.rc
+secret/**/*
+crash.log
