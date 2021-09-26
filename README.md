@@ -26,3 +26,5 @@ terraform apply
 I ran _docker ps_ to see the container
 
 ![](/images/dockerps.png)
+
+**2. Build Infrastructure**
